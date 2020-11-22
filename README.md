@@ -2,7 +2,9 @@
 
 Идеята ни е да създадем морски шах.
 
-Участници: Данислав Антониев Тодоров - Scrum trainer and frond-end developer
+Участници: 
+
+Данислав Антониев Тодоров - Scrum trainer and frond-end developer
 
 
 Иван Юрьевич Назаренко - Back-end developer
