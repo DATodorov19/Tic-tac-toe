@@ -27,6 +27,7 @@ div {
   border: 3px solid red;
   border-radius: 15px;
   font-family: "Nerko One", cursive;
+  font-weight: bold;
 }
 
 .info:hover {
