@@ -1,4 +1,4 @@
-team ГДБОП
+Team ГДБОП
 
 Our team:
 
