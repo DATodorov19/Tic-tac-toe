@@ -2,7 +2,7 @@ Team ГДБОП
 
 Our team:
 
-Danislav Antoniev Todorov - Scrum trainer and frond-end developer
+Danislav Antoniev Todorov - Scrum trainer
 
 Ivan Yrievich Nazarenko - Back-end developer
 
