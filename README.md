@@ -6,7 +6,7 @@ Danislav Antoniev Todorov - Scrum trainer
 
 Ivan Yrievich Nazarenko - Back-end developer
 
-Georgi Kostadinov Hrisimov - Front-end developer 2
+Georgi Kostadinov Hrisimov - Front-end developer
 
 Dimitar Todorov Bodurov - Presentation
 
